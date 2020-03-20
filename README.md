@@ -1,4 +1,4 @@
-# BA-810-Team-7: Avodaco Prices
+# BA-810-Team-7: Avodaco Prices(Using R)
 
 ----- Contributors -----
 
